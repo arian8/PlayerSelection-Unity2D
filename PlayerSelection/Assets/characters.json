@@ -1,0 +1,90 @@
+{
+	"characters": [{
+		"name": "Marie Marbotico alias Shakira",
+		"age": 35,
+		"strength": 2.2,
+		"speed": 4,
+		"combo": [{
+			"name": "Shakira's makeup",
+			"movements": ["up", "down", "A"]
+		}, {
+			"name": "Brake Educational System",
+			"movements": ["up", "down", "B", "A"]
+		}]
+	}, {
+		"name": "Michael Le Normand",
+		"age": 60,
+		"strength": 4.7,
+		"combo": [{
+			"name": "AAARRRGGGHHHHHHHHHH",
+			"movements": ["spam X"]
+		}, {
+			"name": "FUCK ! FUCK ! FUCK ! .... FUUUUUUUUCK !!!!!",
+			"movements": ["spam Y"]
+		}, {
+			"name": "CalmDown and Pay the Rabbit",
+			"movements": ["down", "down", "down"]
+		}]
+	}, {
+		"name": "Delphine \"La petite marseillaise\"",
+		"speed": 5,
+		"strength": 4.2,
+		"combo": [{
+			"name": "Pull",
+			"movements": ["up", "A"]
+		}, {
+			"name": "Push",
+			"movements": ["down", "A"]
+		}]
+	}, {
+		"name": "La Mama Camille",
+		"age": 30,
+		"combo": [{
+			"name": "Sleep little boy",
+			"movements": ["spam Y"]
+		}]
+	}, {
+		"name": "A Famosa Deborah",
+		"age": 16,
+		"speed": 3.5,
+		"strength": 3.5,
+		"combo": [{
+			"name": "SOUMOULOU !",
+			"movements": ["up", "A", "X"]
+		}, {
+			"name": "Only God Can Judge Me",
+			"movements": ["down", "Y", "B"]
+		}, {
+			"name": "Eplucher c'est pas tromp\u00e9",
+			"movements": ["up", "down", "up"]
+		}, {
+			"name": "Demain, c'est loin",
+			"movements": ["X", "B", "A", "Y"]
+		}]
+	}, {
+		"name": "Kiss Mathias Enjoy",
+		"age": 26,
+		"speed": 1.1,
+		"strength": 5,
+		"combo": [{
+			"name": "Hugs, Love & Kiss",
+			"movements": ["spam X"]
+		}, {
+			"name": "Farming Incoming",
+			"movements": ["spam Y"]
+		}, {
+			"name": "Looking for Aim",
+			"movements": ["up", "down", "left", "right"]
+		}, {
+			"name": "Carried by a real Diamond Player",
+			"movements": ["X", "Y"]
+		}]
+	}, {
+		"name": "Cantik M\u00e9gane",
+		"age": 20,
+		"combo": [{
+			"name": "Sing, Dance, Drink & ... oops ! cannot remember",
+			"movements": ["down", "right", "down", "left", "down"]
+		}]
+	}]
+}

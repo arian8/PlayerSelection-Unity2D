@@ -1,0 +1,7 @@
+SOURCES
+
+Json :
+
+https://docs.unity3d.com/Manual/JSONSerialization.html
+
+https://www.youtube.com/watch?v=6F6HnBHVAtE video tutorial
